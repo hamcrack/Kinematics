@@ -1,6 +1,6 @@
 # Kinematics
 
-Only Eigen is used for vector and matrix manupulation
+Only Eigen is used for vector and matrix manipulation
 https://eigen.tuxfamily.org/dox/GettingStarted.html
 
 Compile with a command like this:
